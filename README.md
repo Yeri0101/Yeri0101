@@ -1,0 +1,1 @@
+- 👋 {Hello world} My name is Yerinto Martinez, I am of Latin American origin and currently live in Switzerland. I studied computer science in my home country and now I will start bootcamp le wagon (web developer) I can't wait to start this new adventure. On the other hand, I love extreme sports, making new connections with people, laughing and having fun.
