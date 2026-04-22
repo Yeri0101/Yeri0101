@@ -1,4 +1,4 @@
-# Hey, I'm Yerinto 👋
+# Hey, I'm Yeri 👋
 
 Full-stack developer based in Vevey, Switzerland 🇨🇭  
 Originally from the Dominican Republic
