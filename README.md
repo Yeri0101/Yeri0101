@@ -11,7 +11,7 @@ private projects focused on multi-agent architectures, autonomous
 workflows and LLM integrations.
 
 My stack: **Ruby on Rails · React · TypeScript · JavaScript · PHP · Python**  
-Also into: **AI agents · MCP · n8n · Networking · NAS/server management**
+Also into: **AI agents · MCP  · Networking · NAS/server management**
 
 -  Building AI systems that actually do things autonomously
 -  Full-stack dev with real production experience
